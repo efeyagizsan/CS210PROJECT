@@ -1,4 +1,4 @@
-#CS210 PROJECT
+CS210 PROJECT
 
 The project's goal is to generate video game recommendations based on user input and my steam library. This endeavor will assist those who wish to explore and discover new games.
 
