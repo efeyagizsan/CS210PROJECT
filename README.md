@@ -4,10 +4,4 @@ The recommendation model is constructed with "NearestNeighbors," an unsupervised
 
 Calculate the distance between the input and every data point in a dataset.
 Choose the data points with the shortest distance as the nearest neighbors.
-The model was developed using the following features:
 
-/The genre of the video game.
-/Platform: Platform for playing video games.
-/Rating: ESRB ratings
-/Critic Score: An aggregate score determined by Metacritic team.
-/User Score: The aggregated score of Metacritic's subscribers.
